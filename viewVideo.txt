@@ -1,0 +1,816 @@
+Ophtus_Glasses: 1 Time: 16:44 Date: 20-11-2023
+TopCHA_Glasses: 1 Time: 16:44 Date: 20-11-2023
+Ophtus_Glasses: 2 Time: 16:44 Date: 20-11-2023
+TopCHA_Glasses: 2 Time: 16:44 Date: 20-11-2023
+Apple_Iphone  : 1 Time: 16:44 Date: 20-11-2023
+BackPack_adver: 1 Time: 16:44 Date: 20-11-2023
+ 
+-----TOTAL-----
+DATE: 20-11-2023 TIME: 16:44 Glass_Total: 4 Backpack_Total: 1 iphone_Total: 1
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, count: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, count: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, count: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, count: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 10:01 Date: 21-11-2023
+interest 
+-----
+TopCHA_Glasses: 1 Time: 10:01 Date: 21-11-2023
+interest 
+-----
+BackPack_adver: 1 Time: 10:01 Date: 21-11-2023
+Ophtus_Glasses: 2 Time: 10:01 Date: 21-11-2023
+TopCHA_Glasses: 2 Time: 10:01 Date: 21-11-2023
+BackPack_adver: 2 Time: 10:01 Date: 21-11-2023
+Apple_Iphone  : 1 Time: 10:01 Date: 21-11-2023
+interest 
+-----
+Z_Flip_phone  : 1 Time: 10:01 Date: 21-11-2023
+interest 
+-----
+Apple_Iphone  : 2 Time: 10:01 Date: 21-11-2023
+Z_Flip_phone  : 2 Time: 10:01 Date: 21-11-2023
+ 
+-----TOTAL-----
+DATE: 21-11-2023 TIME: 10:01 Glass_Total: 4 Backpack_Total: 2 iphone_Total: 4
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, count: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, count: 1
+Video: C:\YOLOv8\Videos\iphone.mp4, count: 1
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, count: 1
+Video: C:\YOLOv8\Videos\ibackpack.mp4, count: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 10:10 Date: 21-11-2023
+interest 
+-----
+TopCHA_Glasses: 1 Time: 10:10 Date: 21-11-2023
+interest 
+-----
+Ophtus_Glasses: 2 Time: 10:10 Date: 21-11-2023
+TopCHA_Glasses: 2 Time: 10:10 Date: 21-11-2023
+Apple_Iphone  : 1 Time: 10:10 Date: 21-11-2023
+interest 
+-----
+Z_Flip_phone  : 1 Time: 10:10 Date: 21-11-2023
+interest 
+-----
+Apple_Iphone  : 2 Time: 10:10 Date: 21-11-2023
+Z_Flip_phone  : 2 Time: 10:10 Date: 21-11-2023
+BackPack_adver: 1 Time: 10:10 Date: 21-11-2023
+interest 
+-----
+HandBack_adver: 1 Time: 10:10 Date: 21-11-2023
+BackPack_adver: 2 Time: 10:10 Date: 21-11-2023
+ 
+-----TOTAL-----
+DATE: 21-11-2023 TIME: 10:10 Glass_Total: 4 Backpack_Total: 3 iphone_Total: 4
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, count: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, count: 1
+Video: C:\YOLOv8\Videos\iphone.mp4, count: 1
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, count: 1
+Video: C:\YOLOv8\Videos\ibackpack.mp4, count: 1
+Video: C:\YOLOv8\Videos\Handbag.mp4, count: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 10:13 Date: 21-11-2023
+interest 
+-----
+TopCHA_Glasses: 1 Time: 10:13 Date: 21-11-2023
+interest 
+-----
+Ophtus_Glasses: 2 Time: 10:13 Date: 21-11-2023
+TopCHA_Glasses: 2 Time: 10:13 Date: 21-11-2023
+Apple_Iphone  : 1 Time: 10:13 Date: 21-11-2023
+interest 
+-----
+Z_Flip_phone  : 1 Time: 10:13 Date: 21-11-2023
+interest 
+-----
+Apple_Iphone  : 2 Time: 10:13 Date: 21-11-2023
+BackPack_adver: 1 Time: 10:13 Date: 21-11-2023
+Z_Flip_phone  : 2 Time: 10:13 Date: 21-11-2023
+HandBack_adver: 1 Time: 10:13 Date: 21-11-2023
+interest 
+-----
+BackPack_adver: 2 Time: 10:13 Date: 21-11-2023
+HandBack_adver: 2 Time: 10:13 Date: 21-11-2023
+interest 
+-----
+ 
+-----TOTAL-----
+DATE: 21-11-2023 TIME: 10:13 Glass_Total: 4 Backpack_Total: 4 iphone_Total: 4
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, count: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, count: 1
+Video: C:\YOLOv8\Videos\iphone.mp4, count: 1
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, count: 1
+Video: C:\YOLOv8\Videos\ibackpack.mp4, count: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, count: 2
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 10:18 Date: 21-11-2023
+interest 
+-----
+TopCHA_Glasses: 1 Time: 10:18 Date: 21-11-2023
+interest 
+-----
+Ophtus_Glasses: 2 Time: 10:18 Date: 21-11-2023
+TopCHA_Glasses: 2 Time: 10:18 Date: 21-11-2023
+Apple_Iphone  : 1 Time: 10:18 Date: 21-11-2023
+interest 
+-----
+Z_Flip_phone  : 1 Time: 10:18 Date: 21-11-2023
+interest 
+-----
+Apple_Iphone  : 2 Time: 10:18 Date: 21-11-2023
+Z_Flip_phone  : 2 Time: 10:18 Date: 21-11-2023
+BackPack_adver: 1 Time: 10:18 Date: 21-11-2023
+interest 
+-----
+HandBack_adver: 1 Time: 10:18 Date: 21-11-2023
+interest 
+-----
+BackPack_adver: 2 Time: 10:18 Date: 21-11-2023
+HandBack_adver: 2 Time: 10:18 Date: 21-11-2023
+interest 
+-----
+ 
+-----TOTAL-----
+DATE: 21-11-2023 TIME: 10:18 Glass_Total: 4 Backpack_Total: 4 iphone_Total: 4
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, count: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, count: 1
+Video: C:\YOLOv8\Videos\iphone.mp4, count: 1
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, count: 1
+Video: C:\YOLOv8\Videos\ibackpack.mp4, count: 1
+Video: C:\YOLOv8\Videos\Handbag.mp4, count: 2
+---------------
+ 
+ 
+BackPack_adver: 1 Time: 10:35 Date: 21-11-2023
+HandBack_adver: 1 Time: 10:35 Date: 21-11-2023
+Ophtus_Glasses: 1 Time: 10:35 Date: 21-11-2023
+TopCHA_Glasses: 1 Time: 10:35 Date: 21-11-2023
+Ophtus_Glasses: 2 Time: 10:35 Date: 21-11-2023
+BackPack_adver: 2 Time: 10:35 Date: 21-11-2023
+ 
+-----TOTAL-----
+DATE: 21-11-2023 TIME: 10:35 Glass_Total: 3 Backpack_Total: 3 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 10:36 Date: 21-11-2023
+interest 
+-----
+ 
+-----TOTAL-----
+DATE: 21-11-2023 TIME: 10:36 Glass_Total: 1 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 10:38 Date: 21-11-2023
+TopCHA_Glasses: 1 Time: 10:38 Date: 21-11-2023
+ 
+-----TOTAL-----
+DATE: 21-11-2023 TIME: 10:38 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 10:39 Date: 21-11-2023
+interest 
+-----
+TopCHA_Glasses: 1 Time: 10:39 Date: 21-11-2023
+interest 
+-----
+Ophtus_Glasses: 2 Time: 10:39 Date: 21-11-2023
+TopCHA_Glasses: 2 Time: 10:39 Date: 21-11-2023
+Ophtus_Glasses: 3 Time: 10:39 Date: 21-11-2023
+TopCHA_Glasses: 3 Time: 10:39 Date: 21-11-2023
+Apple_Iphone  : 1 Time: 10:39 Date: 21-11-2023
+interest 
+-----
+Z_Flip_phone  : 1 Time: 10:39 Date: 21-11-2023
+interest 
+-----
+Apple_Iphone  : 2 Time: 10:39 Date: 21-11-2023
+Z_Flip_phone  : 2 Time: 10:39 Date: 21-11-2023
+Ophtus_Glasses: 4 Time: 10:39 Date: 21-11-2023
+TopCHA_Glasses: 4 Time: 10:39 Date: 21-11-2023
+BackPack_adver: 1 Time: 10:39 Date: 21-11-2023
+interest 
+-----
+HandBack_adver: 1 Time: 10:39 Date: 21-11-2023
+interest 
+-----
+BackPack_adver: 2 Time: 10:39 Date: 21-11-2023
+HandBack_adver: 2 Time: 10:39 Date: 21-11-2023
+BackPack_adver: 3 Time: 10:39 Date: 21-11-2023
+HandBack_adver: 3 Time: 10:39 Date: 21-11-2023
+interest 
+-----
+ 
+-----TOTAL-----
+DATE: 21-11-2023 TIME: 10:39 Glass_Total: 8 Backpack_Total: 6 iphone_Total: 4
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 1
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 1
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 2
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 11:08 Date: 21-11-2023
+TopCHA_Glasses: 1 Time: 11:08 Date: 21-11-2023
+Ophtus_Glasses: 2 Time: 11:08 Date: 21-11-2023
+TopCHA_Glasses: 2 Time: 11:08 Date: 21-11-2023
+BackPack_adver: 1 Time: 11:08 Date: 21-11-2023
+HandBack_adver: 1 Time: 11:08 Date: 21-11-2023
+BackPack_adver: 2 Time: 11:08 Date: 21-11-2023
+HandBack_adver: 2 Time: 11:08 Date: 21-11-2023
+BackPack_adver: 3 Time: 11:08 Date: 21-11-2023
+HandBack_adver: 3 Time: 11:08 Date: 21-11-2023
+Apple_Iphone  : 1 Time: 11:08 Date: 21-11-2023
+Z_Flip_phone  : 1 Time: 11:08 Date: 21-11-2023
+BackPack_adver: 4 Time: 11:08 Date: 21-11-2023
+HandBack_adver: 4 Time: 11:08 Date: 21-11-2023
+BackPack_adver: 5 Time: 11:08 Date: 21-11-2023
+HandBack_adver: 5 Time: 11:08 Date: 21-11-2023
+BackPack_adver: 6 Time: 11:08 Date: 21-11-2023
+Apple_Iphone  : 2 Time: 11:08 Date: 21-11-2023
+HandBack_adver: 6 Time: 11:08 Date: 21-11-2023
+BackPack_adver: 7 Time: 11:08 Date: 21-11-2023
+HandBack_adver: 7 Time: 11:08 Date: 21-11-2023
+Ophtus_Glasses: 3 Time: 11:08 Date: 21-11-2023
+BackPack_adver: 8 Time: 11:08 Date: 21-11-2023
+ 
+-----TOTAL-----
+DATE: 21-11-2023 TIME: 11:08 Glass_Total: 5 Backpack_Total: 15 iphone_Total: 3
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 11:21 Date: 21-11-2023
+BackPack_adver: 1 Time: 11:21 Date: 21-11-2023
+HandBack_adver: 1 Time: 11:21 Date: 21-11-2023
+Apple_Iphone  : 1 Time: 11:21 Date: 21-11-2023
+BackPack_adver: 2 Time: 11:21 Date: 21-11-2023
+HandBack_adver: 2 Time: 11:21 Date: 21-11-2023
+BackPack_adver: 3 Time: 11:21 Date: 21-11-2023
+HandBack_adver: 3 Time: 11:21 Date: 21-11-2023
+BackPack_adver: 4 Time: 11:21 Date: 21-11-2023
+TopCHA_Glasses: 1 Time: 11:21 Date: 21-11-2023
+HandBack_adver: 4 Time: 11:21 Date: 21-11-2023
+Ophtus_Glasses: 2 Time: 11:21 Date: 21-11-2023
+ 
+-----TOTAL-----
+DATE: 21-11-2023 TIME: 11:21 Glass_Total: 3 Backpack_Total: 8 iphone_Total: 1
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Apple_Iphone  : 1 Time: 11:28 Date: 21-11-2023
+Z_Flip_phone  : 1 Time: 11:28 Date: 21-11-2023
+BackPack_adver: 1 Time: 11:28 Date: 21-11-2023
+ 
+-----TOTAL-----
+DATE: 21-11-2023 TIME: 11:28 Glass_Total: 0 Backpack_Total: 1 iphone_Total: 2
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 09:59 Date: 23-11-2023
+interest 
+-----
+TopCHA_Glasses: 1 Time: 09:59 Date: 23-11-2023
+Ophtus_Glasses: 2 Time: 09:59 Date: 23-11-2023
+TopCHA_Glasses: 2 Time: 09:59 Date: 23-11-2023
+Ophtus_Glasses: 3 Time: 09:59 Date: 23-11-2023
+TopCHA_Glasses: 3 Time: 09:59 Date: 23-11-2023
+Ophtus_Glasses: 4 Time: 09:59 Date: 23-11-2023
+TopCHA_Glasses: 4 Time: 09:59 Date: 23-11-2023
+Ophtus_Glasses: 5 Time: 09:59 Date: 23-11-2023
+TopCHA_Glasses: 5 Time: 09:59 Date: 23-11-2023
+Ophtus_Glasses: 6 Time: 09:59 Date: 23-11-2023
+TopCHA_Glasses: 6 Time: 09:59 Date: 23-11-2023
+Apple_Iphone  : 1 Time: 09:59 Date: 23-11-2023
+Ophtus_Glasses: 7 Time: 09:59 Date: 23-11-2023
+ 
+-----TOTAL-----
+DATE: 23-11-2023 TIME: 09:59 Glass_Total: 13 Backpack_Total: 0 iphone_Total: 1
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 10:15 Date: 23-11-2023
+interest 
+-----
+TopCHA_Glasses: 1 Time: 10:15 Date: 23-11-2023
+Ophtus_Glasses: 2 Time: 10:15 Date: 23-11-2023
+TopCHA_Glasses: 2 Time: 10:15 Date: 23-11-2023
+Ophtus_Glasses: 3 Time: 10:15 Date: 23-11-2023
+BackPack_adver: 1 Time: 10:15 Date: 23-11-2023
+HandBack_adver: 1 Time: 10:15 Date: 23-11-2023
+BackPack_adver: 2 Time: 10:15 Date: 23-11-2023
+interest 
+-----
+HandBack_adver: 2 Time: 10:15 Date: 23-11-2023
+Apple_Iphone  : 1 Time: 10:15 Date: 23-11-2023
+Z_Flip_phone  : 1 Time: 10:15 Date: 23-11-2023
+TopCHA_Glasses: 3 Time: 10:15 Date: 23-11-2023
+Apple_Iphone  : 2 Time: 10:15 Date: 23-11-2023
+BackPack_adver: 3 Time: 10:15 Date: 23-11-2023
+Z_Flip_phone  : 2 Time: 10:15 Date: 23-11-2023
+ 
+-----TOTAL-----
+DATE: 23-11-2023 TIME: 10:15 Glass_Total: 6 Backpack_Total: 5 iphone_Total: 4
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 1700709952.7421665 Date: 23-11-2023
+Apple_Iphone  : 1 Time: 1700709952.7421665 Date: 23-11-2023
+Z_Flip_phone  : 1 Time: 1700709952.7421665 Date: 23-11-2023
+TopCHA_Glasses: 1 Time: 1700709952.7421665 Date: 23-11-2023
+interest 
+-----
+Ophtus_Glasses: 2 Time: 1700709952.7421665 Date: 23-11-2023
+TopCHA_Glasses: 2 Time: 1700709952.7421665 Date: 23-11-2023
+Ophtus_Glasses: 3 Time: 1700709952.7421665 Date: 23-11-2023
+TopCHA_Glasses: 3 Time: 1700709952.7421665 Date: 23-11-2023
+Ophtus_Glasses: 4 Time: 1700709952.7421665 Date: 23-11-2023
+TopCHA_Glasses: 4 Time: 1700709952.7421665 Date: 23-11-2023
+ 
+-----TOTAL-----
+DATE: 23-11-2023 TIME: 1700709952.7421665 Glass_Total: 8 Backpack_Total: 0 iphone_Total: 2
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 1
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 10:50 Date: 23-11-2023
+TopCHA_Glasses: 1 Time: 10:50 Date: 23-11-2023
+Apple_Iphone  : 1 Time: 10:50 Date: 23-11-2023
+Z_Flip_phone  : 1 Time: 10:50 Date: 23-11-2023
+BackPack_adver: 1 Time: 10:50 Date: 23-11-2023
+Ophtus_Glasses: 2 Time: 10:50 Date: 23-11-2023
+TopCHA_Glasses: 2 Time: 10:50 Date: 23-11-2023
+Ophtus_Glasses: 3 Time: 10:50 Date: 23-11-2023
+TopCHA_Glasses: 3 Time: 10:50 Date: 23-11-2023
+Ophtus_Glasses: 4 Time: 10:50 Date: 23-11-2023
+TopCHA_Glasses: 4 Time: 10:50 Date: 23-11-2023
+Ophtus_Glasses: 5 Time: 10:50 Date: 23-11-2023
+Apple_Iphone  : 2 Time: 10:50 Date: 23-11-2023
+TopCHA_Glasses: 5 Time: 10:50 Date: 23-11-2023
+Ophtus_Glasses: 6 Time: 10:50 Date: 23-11-2023
+ 
+-----TOTAL-----
+DATE: 23-11-2023 TIME: 10:50 Glass_Total: 11 Backpack_Total: 1 iphone_Total: 3
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 10:55:40 Date: 23-11-2023
+TopCHA_Glasses: 1 Time: 10:55:40 Date: 23-11-2023
+Apple_Iphone  : 1 Time: 10:55:40 Date: 23-11-2023
+Ophtus_Glasses: 2 Time: 10:55:40 Date: 23-11-2023
+interest 
+-----
+Z_Flip_phone  : 1 Time: 10:55:40 Date: 23-11-2023
+ 
+-----TOTAL-----
+DATE: 23-11-2023 TIME: 10:55:40 Glass_Total: 3 Backpack_Total: 0 iphone_Total: 2
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 11:00:39 Date: 23-11-2023
+interest 
+-----
+TopCHA_Glasses: 1 Time: 11:00:47 Date: 23-11-2023
+Ophtus_Glasses: 2 Time: 11:00:49 Date: 23-11-2023
+TopCHA_Glasses: 2 Time: 11:00:51 Date: 23-11-2023
+BackPack_adver: 1 Time: 11:02:18 Date: 23-11-2023
+Ophtus_Glasses: 3 Time: 11:02:22 Date: 23-11-2023
+TopCHA_Glasses: 3 Time: 11:02:30 Date: 23-11-2023
+Apple_Iphone  : 1 Time: 11:02:32 Date: 23-11-2023
+ 
+-----TOTAL-----
+DATE: 23-11-2023 TIME: 11:02:32 Glass_Total: 6 Backpack_Total: 1 iphone_Total: 1
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 11:04:24 Date: 23-11-2023
+interest 
+-----
+Apple_Iphone  : 1 Time: 11:04:45 Date: 23-11-2023
+interest 
+-----
+TopCHA_Glasses: 1 Time: 11:05:01 Date: 23-11-2023
+ 
+-----TOTAL-----
+DATE: 23-11-2023 TIME: 11:05:01 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 1
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 11:06:43 Date: 23-11-2023
+TopCHA_Glasses: 1 Time: 11:06:56 Date: 23-11-2023
+Apple_Iphone  : 1 Time: 11:06:58 Date: 23-11-2023
+interest 
+-----
+Ophtus_Glasses: 2 Time: 11:07:15 Date: 23-11-2023
+ 
+-----TOTAL-----
+DATE: 23-11-2023 TIME: 11:07:42 Glass_Total: 3 Backpack_Total: 0 iphone_Total: 1
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 11:11:08 Date: 23-11-2023
+TopCHA_Glasses: 1 Time: 11:11:42 Date: 23-11-2023
+Ophtus_Glasses: 2 Time: 11:12:13 Date: 23-11-2023
+ 
+-----TOTAL-----
+DATE: 23-11-2023 TIME: 11:12:34 Glass_Total: 3 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+Ophtus_Glasses: 1 Time: 11:14:26 Date: 23-11-2023
+Apple_Iphone  : 1 Time: 11:14:42 Date: 23-11-2023
+TopCHA_Glasses: 1 Time: 11:14:46 Date: 23-11-2023
+Z_Flip_phone  : 1 Time: 11:14:55 Date: 23-11-2023
+ 
+-----TOTAL-----
+DATE: 23-11-2023 TIME: 11:15:05 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 2
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+BackPack_adver: 1 Time: 20:11:46 Date: 07-12-2023
+Ophtus_Glasses: 1 Time: 20:11:54 Date: 07-12-2023
+interest 
+-----
+Apple_Iphone  : 1 Time: 20:12:17 Date: 07-12-2023
+Z_Flip_phone  : 1 Time: 20:12:25 Date: 07-12-2023
+TopCHA_Glasses: 1 Time: 20:12:34 Date: 07-12-2023
+Ophtus_Glasses: 2 Time: 20:12:37 Date: 07-12-2023
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 20:12:45 Glass_Total: 3 Backpack_Total: 1 iphone_Total: 2
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+TopCHA_Glasses: 1 Time: 21:25:33 Date: 07-12-2023
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:25:38 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+TopCHA_Glasses: 1 Time: 21:27:54 Date: 07-12-2023
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:27:57 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+TopCHA: 1 Time: 21:31:59 Date: 07-12-2023
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:32:03 Glass_Total: 3 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+TopCHA: 1 Time: 21:33:43 Date: 07-12-2023
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:33:48 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+TopCHA: 1 Time: 21:34:40 Date: 07-12-2023
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:34:43 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+TopCHA: 1 Time: 21:35:23 Date: 07-12-2023
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:35:27 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 1
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:37:54 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:39:12 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:40:36 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:44:09 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:45:56 Glass_Total: 4 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+BackPack_adver: 1 Time: 21:47:18 Date: 07-12-2023
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:47:20 Glass_Total: 2 Backpack_Total: 1 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:49:36 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:51:57 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:53:31 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:55:03 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 21:59:00 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 22:01:46 Glass_Total: 3 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 1
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 22:03:01 Glass_Total: 2 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 1
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 22:04:39 Glass_Total: 4 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 2
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+ 
+-----TOTAL-----
+DATE: 07-12-2023 TIME: 22:07:14 Glass_Total: 4 Backpack_Total: 0 iphone_Total: 0
+Video: C:\YOLOv8\Running_YOLOv8_Webcam\Ophtus.mp4, interested: 2
+Video: C:\YOLOv8\Videos\Top_Charoen.mp4, interested: 0
+Video: C:\YOLOv8\Videos\iphone.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Galaxy Z Flip4.mp4, interested: 0
+Video: C:\YOLOv8\Videos\ibackpack.mp4, interested: 0
+Video: C:\YOLOv8\Videos\Handbag.mp4, interested: 0
+---------------
+ 
+ 
+BackPack,1,22:14:39,07-12-2023,HandBack,1,22:14:56,07-12-2023,
